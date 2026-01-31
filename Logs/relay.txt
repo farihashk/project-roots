@@ -1,0 +1,19 @@
+[2026-01-31T22:58:26.714Z] [INFO] === RELAY SERVER STARTED ===
+[2026-01-31T22:58:26.716Z] [INFO] Creating RelayEditor...
+[2026-01-31T22:58:26.715Z] [INFO] Command line arguments: [
+  "bun",
+  "B:/~BUN/root/relay_win.exe",
+  "9001",
+  "26196",
+  "180"
+]
+[2026-01-31T22:58:26.715Z] [INFO] Parsed config: {
+  "port": 9001,
+  "editorPid": "26196",
+  "shutdownDelaySeconds": 180
+}
+[2026-01-31T22:58:26.715Z] [INFO] Starting relay server...
+[2026-01-31T22:58:26.716Z] [INFO] Initializing relay components...
+[2026-01-31T22:58:26.725Z] [INFO] WebSocket server started
+[2026-01-31T22:58:26.726Z] [INFO] Relay server initialization completed
+[2026-01-31T22:58:33.808Z] [INFO] Unity client connected with ID: editor-26196-0z9txj
